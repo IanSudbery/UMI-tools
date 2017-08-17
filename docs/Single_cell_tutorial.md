@@ -1,6 +1,8 @@
 Single cell tutorial
 ====================
-  
+
+{:toc} 
+
 This tutorial will go through an end to end analysis for single cell analysis using UMI-tools. Before you start, you will need:
 *  An installed copy of UMI-tools (see the installation guide)
 *  [The STAR aligner](https://github.com/alexdobin/STAR)
